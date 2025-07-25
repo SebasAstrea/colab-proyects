@@ -1,6 +1,5 @@
 # colab-proyects
 Este repositorio contiene material y proyectos relacionados al análisis de datos y estadística aplicada, principalmente en Python. Cubre conceptos, nociones y programas básicos hasta aprendizaje supervisado y no supervisado de la máquina.
-This repository contains materials and projects related to data analysis and applied statistics, mainly implemented in Python. It covers everything from basic concepts to advanced machine learning techniques.
 
 Contenido Principal
 📊 Estadística
@@ -49,7 +48,10 @@ Proveer ejemplos prácticos y código reusable para profesionales y estudiantes 
 
 Estructura
 El repositorio está organizado en directorios temáticos con notebooks explicativos, datasets de ejemplo y soluciones a problemas comunes.
-###################################################### English version #####################################################################
+#English version
+This repository contains materials and projects related to data analysis and applied statistics, mainly implemented in Python. It covers everything from basic concepts to advanced machine learning techniques.
+
+
 Main Content
 📊 Statistics
 Descriptive: Measures of central tendency, dispersion, visualizations
